@@ -23,7 +23,7 @@ A responsive and modern **E-Commerce Website** built using **Treact.js** (based 
 - **JavaScript (ES6+)**
 - **Tailwind CSS**
 
----
+---  
 
 ## 🧑‍💻 Demo
 
