@@ -7,7 +7,7 @@ A responsive and modern **E-Commerce Website** built using **Treact.js** (based 
 ## 🚀 Features
 
 - ⚛️ Built with React.js (functional components + hooks)
-- 💅 Treact.js for beautiful UI components and layouts
+- 💅 Treact.js for beautiful UI components and layouts 
 - 🧭 React Router for smooth client-side routing
 - 🛒 Product list, product detail, and cart page
 - 📱 Fully responsive design
